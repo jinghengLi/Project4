@@ -124,7 +124,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="100-200sushu.c" />
+    <ClCompile Include="Character Gathering.c" />
+    <ClCompile Include="count.c" />
+    <ClCompile Include="dichotomy.c" />
+    <ClCompile Include="Factorial sum.c" />
+    <ClCompile Include="goto.c" />
+    <ClCompile Include="login.c" />
     <ClCompile Include="Multiple of 3.c" />
+    <ClCompile Include="random.c" />
+    <ClCompile Include="swap.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Microsoft Visual Studio\\Data\\learn\\day01\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{25A2BD85-253D-47CC-9821-BD9CF1B91C12}|day01.vcxproj|F:\\Microsoft Visual Studio\\Data\\learn\\day01\\Multiple of 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{25A2BD85-253D-47CC-9821-BD9CF1B91C12}|day01.vcxproj|solutionrelative:Multiple of 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -19,25 +14,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 62,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Multiple of 3.c",
-              "DocumentMoniker": "F:\\Microsoft Visual Studio\\Data\\learn\\day01\\Multiple of 3.c",
-              "RelativeDocumentMoniker": "Multiple of 3.c",
-              "ToolTip": "F:\\Microsoft Visual Studio\\Data\\learn\\day01\\Multiple of 3.c",
-              "RelativeToolTip": "Multiple of 3.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-04T18:12:36.986Z",
-              "EditorCaption": ""
             }
           ]
         },
