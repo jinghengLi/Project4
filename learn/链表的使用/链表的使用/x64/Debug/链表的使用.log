@@ -1,0 +1,11 @@
+﻿  linklist.c
+F:\Microsoft Visual Studio\Data\learn\链表的使用\链表的使用\linklist.c(9,3): warning C4033: “init_Linklist”必须返回值
+F:\Microsoft Visual Studio\Data\learn\链表的使用\链表的使用\linklist.c(84,3): warning C4098: “delete_Linklist”:“void”函数返回值
+F:\Microsoft Visual Studio\Data\learn\链表的使用\链表的使用\linklist.c(99,3): warning C4098: “delete_Linklist”:“void”函数返回值
+F:\Microsoft Visual Studio\Data\learn\链表的使用\链表的使用\linklist.c(113,3): warning C4098: “clear_Linklist”:“void”函数返回值
+F:\Microsoft Visual Studio\Data\learn\链表的使用\链表的使用\linklist.c(133,3): warning C4098: “destory_Linklist”:“void”函数返回值
+F:\Microsoft Visual Studio\Data\learn\链表的使用\链表的使用\linklist.c(147,3): warning C4098: “reverse_Linklist”:“void”函数返回值
+  test.c
+  正在生成代码...
+F:\Microsoft Visual Studio\Data\learn\链表的使用\链表的使用\linklist.c(40,1): warning C4715: “init_Linklist”: 不是所有的控件路径都返回值
+  链表的使用.vcxproj -> F:\Microsoft Visual Studio\Data\learn\链表的使用\x64\Debug\链表的使用.exe

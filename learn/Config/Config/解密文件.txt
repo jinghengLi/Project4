@@ -1,0 +1,13 @@
+#英雄Id
+hero:1011
+#英雄姓名
+heroName:亚瑟
+#英雄攻击力
+heroAtk:999999
+#英雄防御力
+heroDef:999999
+#英雄简介
+heroInfo:坦克
+
+asdfasfasfasf
+asdasdasf

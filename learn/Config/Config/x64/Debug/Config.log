@@ -1,0 +1,4 @@
+﻿  config.c
+F:\Microsoft Visual Studio\Data\learn\Config\Config\config.c(35,3): warning C4098: “parseFile”:“void”函数返回值
+F:\Microsoft Visual Studio\Data\learn\Config\Config\config.c(40,3): warning C4098: “parseFile”:“void”函数返回值
+  Config.vcxproj -> F:\Microsoft Visual Studio\Data\learn\Config\x64\Debug\Config.exe

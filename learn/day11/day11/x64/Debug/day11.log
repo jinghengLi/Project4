@@ -1,0 +1,3 @@
+﻿  test.c
+F:\Microsoft Visual Studio\Data\learn\day11\day11\test.c(11,15): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+LINK : fatal error LNK1168: 无法打开 F:\Microsoft Visual Studio\Data\learn\day11\x64\Debug\day11.exe 进行写入

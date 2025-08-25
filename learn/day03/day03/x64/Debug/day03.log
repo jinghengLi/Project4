@@ -1,0 +1,4 @@
+﻿  test.c
+F:\Microsoft Visual Studio\Data\learn\day03\day03\test.c(8,9): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“unsigned int”
+F:\Microsoft Visual Studio\Data\learn\day03\day03\test.c(9,9): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“unsigned int”
+  day03.vcxproj -> F:\Microsoft Visual Studio\Data\learn\day03\x64\Debug\day03.exe
